@@ -12,7 +12,7 @@ Before you begin, make sure you have the following installed:
 - MongoDB (local or cloud, like MongoDB Atlas)
 - Git
 
-** 1. Clone the repository
+#### 1. Clone the repository
 ```bash
 git clone https://github.com/chandanboyina/Ai-Saas-Chatbot.git
 ```
