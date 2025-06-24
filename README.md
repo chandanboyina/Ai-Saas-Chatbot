@@ -12,23 +12,23 @@ Before you begin, make sure you have the following installed:
 - MongoDB (local or cloud, like MongoDB Atlas)
 - Git
 
-### Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/chandanboyina/Ai-Saas-Chatbot.git
 ```
 
-### Go into the project directory
+### 2. Go into the project directory
 ```bash
 cd Ai-Saas-Chatbot
 ```
 
-### Install backend dependencies
+### 3. Install backend dependencies
 ```bash
 cd backend
 npm install
 ```
 
-### Install frontend dependencies
+### 4. Install frontend dependencies
 ```bash
 cd ../frontend
 npm install
