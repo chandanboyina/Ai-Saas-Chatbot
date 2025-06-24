@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Martel:wght@200;300;400;600;700;800;900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+html,body{
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+  height: 100%;
+  width: 100%;
+}
+.image-inverted{
+  filter: invert(100%);
+}
+.nav-link{
+  font-weight: 600;
+  text-transform: capitalize;
+  margin-right: 10px;
+  margin-left: 20px;
+  padding: 5px 20px;
+  border-radius: 15px;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+.MuiOutlinedInput-input-root.Mui-focused, .MuiOutlinedInput-notchedOutline{
+  border-color: white !important;
+}
+
+.flip {
+  animation: flip 3s infinite linear;
+  transform-style: preserve-3d;
+}
+
+@keyframes flip {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
