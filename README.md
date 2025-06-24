@@ -35,7 +35,7 @@ npm install
 ```
 
 # .env.example
-OPEN_AI_APIKEY=your openai_apikey here
+OPEN_AI_APIKEY=your openai_apikey here ./n
 OPENAI_ORGANIZATION_ID=openai_organizationid here(optional)
 MONGODB_URL=your mongoDB_cluster_URL here
 //jwt JWT_SECRET can be any code that not be shared with anyone
