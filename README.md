@@ -2,7 +2,7 @@
 
 ![Homepage](screenshots/homepage.png)
 
-## Getting Started/installation
+## Getting Started/Installation
 
 ### Prerequisites
 
@@ -17,18 +17,18 @@ Before you begin, make sure you have the following installed:
 git clone https://github.com/chandanboyina/Ai-Saas-Chatbot.git
 ```
 
-** 2. Go into the project directory
+#### 2. Go into the project directory
 ```bash
 cd Ai-Saas-Chatbot
 ```
 
-** 3. Install backend dependencies
+#### 3. Install backend dependencies
 ```bash
 cd backend
 npm install
 ```
 
-### 4. Install frontend dependencies
+#### 4. Install frontend dependencies
 ```bash
 cd ../frontend
 npm install
