@@ -2,6 +2,32 @@
 
 ![Homepage](screenshots/homepage.png)
 
+---
+
+## Tech Stack
+
+### Backend
+
+- **Node.js & Express.js** – REST API development
+- **MongoDB + Mongoose** – NoSQL database & schema modeling
+- **JWT (JSON Web Token)** – User authentication and authorization
+- **HTTP-only Cookies** – For secure token storage
+- **CORS Middleware** – Cross-origin resource handling
+- **dotenv** – Manage environment variables securely
+- **route v1** – Organized API versioning structure
+
+### Frontend
+
+- **React.js + Vite** – Modern fast React setup
+- **Material UI (MUI)** – Clean and responsive UI components
+- **Axios** – Promise-based HTTP client for API integration
+- **React Router DOM** – Client-side routing and navigation
+- **State Management** – React hooks and context for handling app state
+
+---
+
+
+
 ## Getting Started/Installation
 
 ### Prerequisites
