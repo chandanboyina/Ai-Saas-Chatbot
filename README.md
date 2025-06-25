@@ -26,6 +26,18 @@
 
 ---
 
+---
+
+## Features
+- JWT Authentication & Role-based Access Control  
+- AI integration with OpenAI API  
+- Fully responsive UI using MUI  
+- Secure backend with HTTP-only cookies  
+- Organized API routes with versioning  
+- Postman-tested endpoints  
+- Scalable & maintainable codebase  
+
+---
 
 
 ## Getting Started/Installation
