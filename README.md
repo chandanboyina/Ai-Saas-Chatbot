@@ -2,7 +2,7 @@
 
 An AI SaaS Chatbot built with the MERN stack and TypeScript that enables users to interact with an AI-powered assistant. This application supports secure authentication, role-based access, JWT token handling, and uses the OpenAI API for smart responses. Built with performance and scalability in mind.
 
-![Homepage](screenshots/homepage.png)
+![Homepage](https://github.com/chandanboyina/Ai-Saas-Chatbot/blob/main/Homepage.jpg)
 
 ---
 
