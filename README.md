@@ -26,7 +26,6 @@
 
 ---
 
----
 
 ## Features
 - JWT Authentication & Role-based Access Control  
